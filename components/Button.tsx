@@ -11,7 +11,7 @@ export function Button({
     <div className={(center !== undefined ? center : true) ? "flex justify-center" : ""}>
       <button
         onClick={onClick}
-        className="text-primary border border-primary hover:bg-primary hover:text-white font-bold py-2 px-4"
+        className="text-primary border border-primary hover:border-cyan-700 hover:bg-primary hover:text-cyan-700 font-bold py-2 px-4"
       >
         {children}
       </button>
@@ -32,7 +32,7 @@ export function DownloadButton({
     <div className={(center !== undefined ? center : true) ? "flex justify-center" : ""}>
       <a
         href={url}
-        className="text-primary border border-primary hover:bg-primary hover:text-white font-bold py-2 px-4"
+        className="text-primary border border-primary hover:border-cyan-700  hover:bg-primary hover:text-cyan-700 font-bold py-2 px-4"
         download
       >
         {children}
@@ -44,21 +44,27 @@ export function DownloadButton({
 export function LinkButton({
     children,
     url,
-    center
-  }: Readonly<{
+    center,
+}: Readonly<{
     children: React.ReactNode;
     url: string;
     center?: boolean;
-  }>) {
+}>) {
     return (
-        <div className={(center !== undefined ? center : true) ? "flex justify-center" : ""}>
-        <a
-          href={url}
-          className="text-primary border border-primary hover:bg-primary hover:text-white font-bold py-2 px-4"
+        <div
+            className={
+                (center !== undefined ? center : true)
+                    ? "flex justify-center"
+                    : ""
+            }
         >
-          {children}
-        </a>
-      </div>
+            <a
+                href={url}
+                className="text-primary border border-primary hover:border-cyan-700 hover:bg-primary hover:text-cyan-700 font-bold py-2 px-4"
+            >
+                {children}
+            </a>
+        </div>
     );
-  }
+}
   

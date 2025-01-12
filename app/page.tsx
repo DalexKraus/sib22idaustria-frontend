@@ -18,7 +18,7 @@ export default function Home() {
             </p>
 
             <div className="mt-16">
-                <LinkButton url="/login">Zum Demo-Login</LinkButton>
+                <LinkButton url="/protected">Zur geschützten Seite</LinkButton>
             </div>
 
             <p className="mt-16">
