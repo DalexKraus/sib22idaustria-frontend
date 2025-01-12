@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-stack: Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace, serif;
+
+  background-color: #f8f8f8;
+  color: #474747;
+}
+
+body {
+  font-family: var(--font-stack) !important;
+}

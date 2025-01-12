@@ -1,0 +1,67 @@
+Datenschutzerklärung für den Service Provider "SIB22-ID AUSTRIA"
+
+1. Allgemeine Informationen
+
+Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unseres Service Providers.
+
+2. Verantwortlicher
+
+Verantwortlich für die Datenverarbeitung ist:
+
+David Kraus  
+Peter-Behrens-Platz 10
+4020 Linz, Österreich  
+E-Mail: s2210239019@fh-ooe.at
+
+3. Zweck der Datenverarbeitung
+
+Der Service Provider wird im Rahmen einer Bachelorarbeit betrieben, um die praktische Integration der ID Austria als Identity Provider in Anwendungen zu untersuchen. Die Datenverarbeitung erfolgt ausschließlich zu Forschungs- und Entwicklungszwecken.
+
+4. Art der verarbeiteten Daten
+
+Im Rahmen der Nutzung des Service Providers werden folgende Daten verarbeitet:
+
+- Identifikationsdaten (z. B. E-ID oder Benutzer-ID)
+- Vorname, Nachname, Geburtsdatum
+- Verbindungs- und Authentifizierungsdaten (z. B. Zeitstempel, Status der Authentifizierung)
+
+5. Rechtsgrundlage der Verarbeitung
+
+Die Verarbeitung der Daten erfolgt auf Basis von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse) zur Durchführung der Forschungsarbeit und Optimierung des Service Providers.
+
+6. Aufbewahrungsdauer
+
+Personenbezogene Daten werden für die Dauer einer Benutzersitzung gespeichert und werden nach dem Lougout sofort gelöscht.
+Nach Abschluss des Projekts, spätestens jedoch am 01.01.2026, werden sämtliche Daten anonymisiert oder gelöscht, sofern keine gesetzlichen Aufbewahrungsfristen bestehen.
+
+7. Weitergabe von Daten
+
+Es erfolgt keine Weitergabe der erhobenen Daten an Dritte, es sei denn, dies ist zur Erfüllung der Forschungszwecke erforderlich oder aufgrund gesetzlicher Verpflichtungen notwendig.
+
+8. Sicherheit der Daten
+
+Ihre Daten werden durch geeignete technische und organisatorische Maßnahmen vor unbefugtem Zugriff, Verlust oder Missbrauch geschützt. Dazu gehören unter anderem verschlüsselte Datenübertragung und regelmäßige Sicherheitsüberprüfungen.
+
+9. Rechte der betroffenen Personen
+
+Sie haben gemäß DSGVO folgende Rechte:
+
+- Recht auf Auskunft über Ihre gespeicherten Daten
+- Recht auf Berichtigung unrichtiger Daten
+- Recht auf Löschung Ihrer Daten, sofern keine gesetzlichen Aufbewahrungsfristen entgegenstehen
+- Recht auf Einschränkung der Verarbeitung
+- Recht auf Datenübertragbarkeit
+- Widerspruchsrecht gegen die Verarbeitung Ihrer Daten
+
+Zur Ausübung dieser Rechte wenden Sie sich bitte an die oben angegebene Kontaktadresse.
+
+11. Kontakt
+
+Für Fragen zur Datenverarbeitung oder zur Ausübung Ihrer Rechte wenden Sie sich bitte an:
+
+David Kraus  
+Peter-Behrens-Platz 10
+4020 Linz, Österreich  
+E-Mail: s2210239019@fh-ooe.at
+
+Diese Datenschutzerklärung wurde zuletzt am 27.11.2024 aktualisiert.
