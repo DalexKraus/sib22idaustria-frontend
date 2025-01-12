@@ -16,9 +16,9 @@ function createClaimListEntry(claim: Claim) {
 }
 
 export default function Login() {
-    let user = undefined;
+    const user = undefined;
 
-    let claims: Array<Claim> = [
+    const claims: Array<Claim> = [
         { name: "uid", value: "David-Alexander Kraus" },
         { name: "email", value: "s2210239019@fh-ooe.at" },
     ];
