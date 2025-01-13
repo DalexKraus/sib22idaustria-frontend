@@ -31,11 +31,12 @@ export const DEFAULT_CLAIMS: Array<Claim> = [
     },
     {
         key: "iat",
-        humanReadableName: "Ausgestellt am",
+        humanReadableName: "Token Ausgestellt am",
+        parseValue: parseDate,
     },
     {
         key: "exp",
-        humanReadableName: "Gültig bis",
+        humanReadableName: "Token gültig bis",
         parseValue: parseDate,
     },
     {
