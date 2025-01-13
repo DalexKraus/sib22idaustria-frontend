@@ -7,7 +7,8 @@ import ClaimList from "@/components/ClaimList";
 import Link from "next/link";
 
 export default function ProtectedPage() {
-    let apiBase = "http://localhost:5186";
+    let apiBase = "https://sib22idaustria.cc";
+
     let [loggedIn, setLoggedIn] = useState<boolean>(false);
     useEffect(() => setLoggedIn(isLoggedIn()), []);
 
