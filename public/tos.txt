@@ -1,4 +1,4 @@
-Datenschutzerklärung für den Service Provider "SIB22-ID AUSTRIA"
+Datenschutzerklärung für den Service Provider "ID Austria Integration Research"
 
 1. Allgemeine Informationen
 
@@ -10,8 +10,8 @@ Verantwortlich für die Datenverarbeitung ist:
 
 David Kraus  
 Peter-Behrens-Platz 10
-4020 Linz, Österreich  
-E-Mail: s2210239019@fh-ooe.at
+4020 Linz, Österreich
+E-Mail: david@servas.ai
 
 3. Zweck der Datenverarbeitung
 
@@ -62,6 +62,6 @@ Für Fragen zur Datenverarbeitung oder zur Ausübung Ihrer Rechte wenden Sie sic
 David Kraus  
 Peter-Behrens-Platz 10
 4020 Linz, Österreich  
-E-Mail: s2210239019@fh-ooe.at
+E-Mail: david@servas.ai
 
 Diese Datenschutzerklärung wurde zuletzt am 27.11.2024 aktualisiert.
