@@ -49,7 +49,7 @@ Mit der Nutzung dieses Services erklärst du dich mit den nachfolgenden Bedingun
 
 ### 1.5 Geistiges Eigentum
 
-- Alle Inhalte (Texte, Grafiken, Logos, Datenbanken etc.) auf diesem Service unterliegen dem Urheberrecht und anderen Gesetzen zum Schutz geistigen Eigentums.  
+- Alle Inhalte (Texte, Grafiken, Logos, etc.) auf diesem Service unterliegen dem Urheberrecht und anderen Gesetzen zum Schutz geistigen Eigentums.  
 - Jegliche Vervielfältigung, Bearbeitung, Verbreitung oder sonstige Nutzung über den vertraglich vereinbarten Zweck hinaus bedarf der vorherigen schriftlichen Zustimmung des Betreibers oder des jeweiligen Rechteinhabers.
 
 ---
@@ -189,6 +189,4 @@ Diese Datenschutzerklärung kann gelegentlich angepasst werden, etwa wenn sich g
 
 ---
 
-**Stand:** 27.11.2024  
-
-*Hinweis: Dieses Dokument stellt nur eine allgemeine Vorlage dar und ersetzt keine Rechtsberatung. Bitte konsultiere einen (Fach-)Anwalt, um sicherzugehen, dass alle rechtlichen Anforderungen erfüllt sind.*
+**Stand:** 27.11.2024
