@@ -22,7 +22,7 @@ Der Service Provider wird im Rahmen einer Bachelorarbeit betrieben, um die prakt
 Im Rahmen der Nutzung des Service Providers werden folgende Daten verarbeitet:
 
 - Identifikationsdaten (z. B. E-ID oder Benutzer-ID)
-- Vorname, Nachname, Geburtsdatum
+- Vorname, Familienname, Geburtsdatum
 - Verbindungs- und Authentifizierungsdaten (z. B. Zeitstempel, Status der Authentifizierung)
 
 5. Rechtsgrundlage der Verarbeitung
